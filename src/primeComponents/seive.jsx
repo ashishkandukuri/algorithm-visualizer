@@ -1,9 +1,8 @@
 import React, { Component } from "react";
 import Cells from "./cells";
 import Navbar from "./navBar";
-// import DiscreteSlider from "./slider";
 import Menu from "./menu";
-import { seive } from "../algorithms/prime";
+// import { seive } from "../algorithms/prime";
 
 class Seive extends Component {
   state = {
